@@ -37,7 +37,7 @@ function profit_total = profit(x)
         cost_micr = 10^10;
     end
     toc
-     %Total Costs
+     %Total 
     cost_total = cost_micr + cost_pump + cost_irrigation + cost_crop;
     
     %% Profit
