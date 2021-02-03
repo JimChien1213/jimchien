@@ -1,0 +1,22 @@
+Project: 	Uganda
+Crop model: AquaCrop-OS
+Seeding date:	01/11
+Harvest date:	01/04
+Strategy:	Full irrigation
+Irrigation storage:	9999.0 mm
+
+Crop yields [ton/ha]:
+mean - 8.91; 10% quantile - 8.74
+
+Totals [mm]:
+Season	IRR	P	ET	Yield [ton/ha]
+1	587.24	8.30	572.30	8.69	
+2	597.94	0.00	577.80	8.85	
+3	579.91	29.10	572.10	8.82	
+4	535.58	54.30	530.20	8.79	
+5	583.92	0.00	564.80	8.84	
+6	519.29	98.60	546.40	8.82	
+7	574.18	12.40	568.70	8.98	
+8	580.92	30.60	581.50	9.02	
+9	570.17	34.50	574.50	9.19	
+10	573.21	51.90	557.70	9.08	

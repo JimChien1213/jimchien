@@ -1,0 +1,22 @@
+Project: 	Example5_GETOPTIS
+Crop model: Soil-Water Balance Model
+Seeding date:	01/11
+Harvest date:	01/04
+Strategy:	Optimized deficit irrigation with GET-OPTIS
+Irrigation storage:	200.0 mm
+
+Crop yields [%]:
+mean - 28.89; 10% quantile - 24.6
+
+Totals [mm]:
+Season	IRR	P	ET	Yield [%]
+1	200.00	71.60	694.90	31.85	
+2	200.00	38.70	690.40	26.32	
+3	200.00	107.30	699.30	33.66	
+4	200.00	23.20	725.00	27.77	
+5	200.00	76.60	715.20	30.15	
+6	200.00	103.90	704.40	31.44	
+7	200.00	69.10	724.50	31.75	
+8	200.00	1.20	731.80	24.36	
+9	200.00	4.30	715.50	24.84	
+10	200.00	24.90	717.90	26.72	

@@ -1,0 +1,10 @@
+Project: 	Eradu
+Strategy:	Optimized deficit irrigation with decision table(4 phenological stages)
+Total irrigation volume[mm]:	300
+
+Decision variables: 
+X1	Y1	L1	L2	L3	L4
+0.74	1.00	0.00	1.00	1.00	0.74	
+0.53	1.00	0.00	0.47	1.00	0.00	
+0.00	0.99	0.77	0.56	0.32	1.00	
+1.00	0.72	0.00	0.00	0.16	0.41	

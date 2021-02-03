@@ -1,0 +1,14 @@
+Project: 	Uganda
+Crop model: Soil-Water Balance Model
+Seeding date:	01/05
+Harvest date:	30/10
+Strategy:	Optimized deficit irrigation with GET-OPTIS
+Irrigation storage:	200.0 mm
+
+Crop yields [%]:
+mean - 100; 10% quantile - 100
+
+Totals [mm]:
+Season	IRR	P	ET	Yield [%]
+1	199.38	614.50	312.60	100.00	
+2	199.38	741.50	294.90	100.00	

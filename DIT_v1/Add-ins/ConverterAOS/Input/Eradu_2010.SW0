@@ -1,0 +1,14 @@
+
+    4.0   : AquaCrop Version (June 2012)
+    0.0   : water layer (mm) stored between soil bunds (if present)
+    0.00  : electrical conductivity (dS/m) of water layer stored between soil bunds (if present)
+    0     : soil water content specified for specific layers
+    5     : number of layers considered
+
+Thickness layer (m)     Water content (vol%)     ECe(dS/m)
+==============================================================
+         0.15                3.70                  0.00
+         0.15                6.70                  0.00
+         0.30                6.9                  0.00
+         0.30                5.1                  0.00
+         0.30                5.2                  0.00

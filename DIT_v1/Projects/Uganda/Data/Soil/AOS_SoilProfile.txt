@@ -1,0 +1,14 @@
+%% ---------- Soil profile discretisation for AquaCropOS ---------- %%
+%% CompartmentNo	Thickness(m)	LayerNo %%
+1	0.10	1
+2	0.10	1
+3	0.15	1
+4	0.15	1
+5	0.15	1
+6	0.15	2
+7	0.15	2
+8	0.20	3
+9	0.20	3
+10	0.30	3
+11	0.40	3
+12	0.45	3

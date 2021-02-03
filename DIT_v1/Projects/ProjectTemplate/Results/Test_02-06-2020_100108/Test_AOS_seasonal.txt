@@ -1,0 +1,22 @@
+Project: 	ProjectTemplate
+Crop model: AquaCrop-OS
+Seeding date:	01/11
+Harvest date:	01/04
+Strategy:	No irrigation(rainfed)
+Irrigation storage:	9999.0 mm
+
+Crop yields [ton/ha]:
+mean - 0.45; 10% quantile - 0
+
+Totals [mm]:
+Season	IRR	P	ET	Yield [ton/ha]
+1	0.00	0.00	27.00	0.00	
+2	0.00	0.00	26.10	0.00	
+3	0.00	3.70	328.30	0.42	
+4	0.00	23.20	322.20	0.29	
+5	0.00	0.00	26.90	0.00	
+6	0.00	0.00	25.70	0.00	
+7	0.00	69.10	520.80	3.36	
+8	0.00	0.00	26.70	0.00	
+9	0.00	0.60	337.60	0.41	
+10	0.00	0.00	26.50	0.00	
